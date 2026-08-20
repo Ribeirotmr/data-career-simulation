@@ -2,7 +2,7 @@
 
 ## About 
 
-Olá!
+👋🏿 Olá!
 
 Eu me chamo Thierry
 
