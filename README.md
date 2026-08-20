@@ -11,8 +11,8 @@ Sou estudante de Estatística e Ciência de Dados
 Este espaço serve como portfólio prático, onde documento soluções de dados aplicadas a desafios inspirados em problemas reais de mercado.
 
 ## Roadmap
-* 🟡 Fase 0 - Setup
-* ⚪ Fase 1 - Data Analyst
+* 🟢 [Fase 0 - Setup]
+* ⚪ Fase 1 - Data Analyst 
 * ⚪ Fase 2 - Business Analytics
 * ⚪ Fase 3 - Machine Learning 
 * ⚪ Fase 4 - Artificial Intelligence
