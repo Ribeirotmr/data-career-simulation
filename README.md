@@ -1,4 +1,4 @@
-# Uma jornada estruturada para desenvolver competências em Ciência de Dados, Machine Learning, IA e Estatística por meio de casos inpirados em dedsafios reais de empresas. 
+# Uma jornada estruturada para desenvolver competências em Ciência de Dados, Machine Learning, IA e Estatística por meio de casos inspirados em desafios reais de empresas. 
 
 ## About 
 
@@ -8,7 +8,7 @@ Eu me chamo Thierry
 
 Sou estudante de Estatística e Ciência de Dados 
 
-Criei esse repositorio para documentar minha evolução durante esse desafio e problemas reais
+Este espaço serve como portfólio prático, onde documento soluções de dados aplicadas a desafios inspirados em problemas reais de mercado.
 
 ## Roadmap
 * 🟡 Fase 0 - Setup
